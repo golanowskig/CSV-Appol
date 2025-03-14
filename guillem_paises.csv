@@ -1,0 +1,57 @@
+﻿Abreviación País,Continente_FK,País,País_PK
+AGO,1,Angola,1
+ARG,2,Argentina,2
+AUS,3,Australia,4
+AUT,4,Austria,5
+BEL,4,Bélgica,6
+BRA,2,Brasil,3
+CAN,2,Canadá,7
+CHE,4,Suiza,8
+CHL,2,Chile,9
+CHN,5,China,10
+CMR,1,Camerún,11
+COL,2,Colombia,12
+CRI,2,Costa Rica,13
+CZE,4,República Checa,14
+DEU,4,Alemania,15
+DOM,2,República Dominicana,16
+DZA,1,Argelia,17
+ECU,2,Ecuador,18
+EGY,1,Egipto,19
+ESP,4,España,20
+FIN,4,Finlandia,21
+FRA,4,Francia,22
+GBR,4,Reino Unido,23
+GRC,4,Grecia,24
+GTM,2,Guatemala,25
+HUN,4,Hungría,26
+IDN,5,Indonesia,27
+IND,5,India,28
+IRL,4,Irlanda,29
+IRN,5,Irán,30
+ISR,5,Israel,31
+ITA,4,Italia,32
+JPN,5,Japón,33
+KEN,1,Kenia,34
+KOR,5,República de Corea,35
+MEX,2,México,36
+MYS,5,Malasia,37
+NGA,1,Nigeria,38
+NOR,4,Noruega,39
+NZL,3,Nueva Zelanda,56
+PER,2,Perú,40
+PHL,5,Filipinas,41
+POL,4,Polonia,42
+PRT,4,Portugal,43
+RUS,5,Rusia,44
+SDN,1,Sudán,45
+SVK,4,Eslovaquia,46
+SWE,4,Suecia,47
+THA,5,Tailandia,48
+TUR,5,Turquía,49
+TZA,1,Tanzania,50
+UKR,4,Ucrania,51
+USA,2,Estados Unidos,52
+VEN,2,Venezuela,53
+YEM,5,Yemen,54
+ZAF,1,Sudáfrica,55
